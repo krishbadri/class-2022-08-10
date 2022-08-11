@@ -1,10 +1,23 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  Some additional details about the website and me
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## About Me
+My name is **Krish Badri** and I am a junior at Olentangy Liberty High School in Powell, Ohio. Some of my interests include playing tennis, learning math, and reading books.
+
+## About the Project
+
+The data for this project came from Opportunity Insights. It is about the Economic Connectedness of counties around the United States.
+
+The graphs, using factors such as population and economy, show the economic connectedness of counties in the United States
+
+“This is data science”  
+~Preceptor  
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
 
